@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Object Include="..\..\..\..\..\..\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="Intro.asm" />
+    <MASM Include="P1_mensaje_emergente.asm" />
+    <MASM Include="P2_Resp_mensaje_emergente.asm" />
+    <MASM Include="P3_mensaje_espera.asm" />
+    <MASM Include="P4_N_aleatorios.asm" />
+    <MASM Include="P5_N_aleatorios.asm" />
+    <MASM Include="P6_delay.asm" />
+    <MASM Include="P7_ingresar_suma.asm" />
+    <MASM Include="P8_macro_pantalla.asm" />
+    <MASM Include="P9_libMacros.asm" />
+    <MASM Include="P10_sumaMacro.asm" />
+    <MASM Include="P11_sumaMacro2.asm" />
+    <MASM Include="P12_sumav3.asm" />
+    <MASM Include="P13_limpiar_pantalla.asm" />
+    <MASM Include="P14_leer_caracter.asm" />
+    <MASM Include="P15_suma_consecutiva.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="MACROS.inc" />
+  </ItemGroup>
+</Project>

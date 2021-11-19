@@ -1,0 +1,10 @@
+﻿  Assembling P7_ingresar_suma.asm...
+Intro.obj : warning LNK4258: la directiva '/ENTRY:main@0' no es compatible con el modificador '/ENTRY:main7'; se ha omitido
+P1_mensaje_emergente.obj : warning LNK4258: la directiva '/ENTRY:main1@0' no es compatible con el modificador '/ENTRY:main7'; se ha omitido
+P2_Resp_mensaje_emergente.obj : warning LNK4258: la directiva '/ENTRY:main2@0' no es compatible con el modificador '/ENTRY:main7'; se ha omitido
+P3_mensaje_espera.obj : warning LNK4258: la directiva '/ENTRY:main3@0' no es compatible con el modificador '/ENTRY:main7'; se ha omitido
+P4_N_aleatorios.obj : warning LNK4258: la directiva '/ENTRY:main4@0' no es compatible con el modificador '/ENTRY:main7'; se ha omitido
+P5_N_aleatorios.obj : warning LNK4258: la directiva '/ENTRY:main5@0' no es compatible con el modificador '/ENTRY:main7'; se ha omitido
+P6_delay.obj : warning LNK4258: la directiva '/ENTRY:main6@0' no es compatible con el modificador '/ENTRY:main7'; se ha omitido
+P7_ingresar_suma.obj : warning LNK4258: la directiva '/ENTRY:main7@0' no es compatible con el modificador '/ENTRY:main7'; se ha omitido
+  PM_0_ProgramasClase_U3.vcxproj -> C:\Users\Gustavo\Downloads\ao1 Programacion de Microprocesadores\PM_0_ProgramasClase_U3\Debug\PM_0_ProgramasClase_U3.exe
